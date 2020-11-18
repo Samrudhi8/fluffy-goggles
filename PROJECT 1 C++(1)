@@ -2,9 +2,9 @@
 using namespace std;
 int main()
 {
-         cout << "size of char:" << "1 byte" << "/n";
-         cout << "size of int:" << "4 bytes"<< "/n";
-         cout << "size of float:" << "4 bytes"<< "/n";
-         cout << "size of double:" << "8 bytes"<< "/n";
+         cout << "size of char:" << "1 byte" << "\n";
+         cout << "size of int:" << "4 bytes"<< "\n";
+         cout << "size of float:" << "4 bytes"<< "\n";
+         cout << "size of double:" << "8 bytes"<< "\n";
 	     return 0;
 }
